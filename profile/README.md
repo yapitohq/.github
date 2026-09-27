@@ -20,6 +20,6 @@ Yapito is an all-in-one content creation platform that helps creators move from 
 
 ## What we're building
 
-We’re bringing the work behind every post—finding an idea, shaping the message, and preparing it for an audience—into one creative home. Yapito is built for people creating for themselves, a brand, or a community.
+We’re bringing the work behind every post finding an idea, shaping the message, and preparing it for an audience—into one creative home. Yapito is built for people creating for themselves, a brand, or a community.
 
 Start with your next idea at **[yapito.com](https://www.yapito.com)**.
